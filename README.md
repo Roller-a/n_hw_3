@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/sknfylep19tyjkc5?svg=true)](https://ci.appveyor.com/project/Roller-a/n-hw-3)
+([![Java CI with Gradle](https://github.com/Roller-a/n_hw_3/actions/workflows/gradle.yml/badge.svg)](https://github.com/Roller-a/n_hw_3/actions/workflows/gradle.yml)]
